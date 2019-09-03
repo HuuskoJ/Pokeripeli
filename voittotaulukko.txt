@@ -1,0 +1,10 @@
+Viisi jokeria:500
+Vitoset:200
+Värisuora:150
+Neloset:25
+Täyskäsi:15
+Väri:8
+Suora:5
+Kolmoset:3
+Kaksi paria:2
+Jätkäpari tai parempi:1

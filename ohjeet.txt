@@ -1,0 +1,21 @@
+SÄÄNNÖT:
+Pelin tarkoituksena on saada
+mahdollisimman paljon pisteitä.
+Joka kierroksen alussa pelimerkkien
+määrä lisätään pisteisiin.
+Panos on suuruudeltaan 10% pelimerkkien
+määrästä, mutta aina vähintään edellisen
+panoksen verran.
+MAX PANOS:
+'Panosta kaikki' -nappi ilmestyy
+satunnaisesti. Nappia painamalla kierroksen
+panos muuttuu pelimerkkien määräksi.
+Jos voitat, panos muuttuu takaisin
+10% pelimerkkien määrästä.
+LISÄJOKERIT:
+Pakassa on aluksi 2 jokeria,
+mutta pisteillä voi ostaa lisäjokereita.
+Aina kun ostaa jokerin, panos ja pelimerk-
+kien määrä puolittuu.
+
+Onnea peliin!
